@@ -1,7 +1,4 @@
-Boilerplate and Starter for Next.js with App Router support, Tailwind CSS, and TypeScript ⚡️ Prioritizing developer experience first: Next.js, TypeScript, ESLint, Prettier, Husky,VSCode, PostCSS, Tailwind CSS,Authentication, Database
-
-Clone this project and use it to create your own Next.js project..
-
+Boilerplate and Starter for Next.js with App Router support, Tailwind CSS, and TypeScript ⚡️ Prioritizing developer experience first
 # Table of Contents
 
 - [Getting Started](#getting-started)
