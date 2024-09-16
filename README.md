@@ -8,14 +8,7 @@ Clone this project and use it to create your own Next.js project..
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 
-* [Configuration](#configuration)
-  - [Authentication](#authentication)
-  * [Database](#database)
-* [Project Structure](#project-structure)
-* [Customization](#customization)
-* [Contributing](#contributing)
 
-* [License](#license)
 
 ## Requirements
 
